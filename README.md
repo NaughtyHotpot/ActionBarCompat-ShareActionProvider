@@ -1,6 +1,7 @@
 
 Android ActionBarCompat-ShareActionProvider Sample
 ===================================
+hello
 
 This sample shows you how a provide a context-sensitive ShareActionProvider with
 ActionBarCompat, backwards compatible to API v7.
